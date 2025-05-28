@@ -95,6 +95,8 @@ Estoy constantemente esforzándome por expandir mis conocimientos y habilidades
   ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
   ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js&logoColor=white)
   ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=white)
+  ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=Axios&logoColor=white)
 </p>
 
 <!-- Dark mode stats -->
