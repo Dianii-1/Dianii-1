@@ -54,6 +54,14 @@ Estoy constantemente esforzándome por expandir mis conocimientos y habilidades
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
+<!-- Dark mode stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dianii-1&show_icons=true&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dianii-1&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+</a>
+
 <!-- Light mode stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dianii-1&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&theme=catppuccin_latte#gh-light-mode-only" />
