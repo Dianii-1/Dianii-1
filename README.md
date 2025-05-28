@@ -34,25 +34,68 @@ Estoy constantemente esforzándome por expandir mis conocimientos y habilidades
 - Email: dianii2304160@gmail.com
 
 ## 🌐 Redes:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dianii_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-pinilla-ortegon-575919226/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dianii_1) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-pinilla-ortegon-575919226/)
 
 # 💻 Lenguajes de programación:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-<a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+<p>
+<!-- 	<a> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+  <a >
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+	<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
+
+ <a >
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
  </a>
- <a href="https://www.python.org" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
+  <a> 
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
+  </a> 
+ <a >
+    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?logo=React&logoColor=black">
   </a>
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+   <a>
+    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
+  </a>
+<a> 
+    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+  </a>
+	<a>
+		<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white" />
+	</a>
+	<a>
+	<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" />
+	</a> -->
+
+ ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat")
+ ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black)
+ ![React](https://img.shields.io/badge/react-%2361DAFB.svg?logo=React&logoColor=black)
+ ![Git](https://img.shields.io/badge/-git-red?logo=git&logoColor=white)
+ ![github](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)
+ ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white)
+ ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+ ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?logo=styled-components&logoColor=white)
+ ![Slack](https://img.shields.io/badge/slack-black?logo=slack&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?logo=springboot&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+ ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)
+  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=Next.js)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white) 
+  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)
+  ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js&logoColor=white)
+  ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest&logoColor=white)
+</p>
 
 <!-- Dark mode stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
