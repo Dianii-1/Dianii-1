@@ -64,7 +64,7 @@ Estoy constantemente esforzándome por expandir mis conocimientos y habilidades
 
 <!-- Light mode stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=Dianii-1&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&theme=catppuccin_latte#gh-light-mode-only" />
+  <img height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=Dianii-1&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&theme=catppuccin_latte#gh-light-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dianii-1&include_all_commits=true&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&theme=catppuccin_latte#gh-light-mode-only" />
